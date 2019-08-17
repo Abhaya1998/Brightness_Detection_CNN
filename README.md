@@ -32,8 +32,5 @@ pip install <package-name>
 ```
 
 You can refer to the .ipynb file for more detailed on how this project is done.<br>
-**Remove the commented lines to include the libraries**<br>
--**run_mode.py---To run directly the model**<br>
--**load_data.py---Loads the data**<br>
--**create_model.py----Created the model**<br>
+In .ipynb file you can test your own Image
 
